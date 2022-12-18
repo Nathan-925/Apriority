@@ -1,0 +1,3 @@
+[submodule "/libs/BMPLibrary"]
+	path = /libs/BMPLibrary
+	url = https://github.com/Nathan-925/BMPLibrary
