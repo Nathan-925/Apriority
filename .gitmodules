@@ -1,0 +1,6 @@
+[submodule "priori/BMPLibrary"]
+	path = priori/BMPLibrary
+	url = https://github.com/Nathan-925/BMPLibrary
+[submodule "priori/Graphical"]
+	path = priori/Graphical
+	url = https://github.com/Nathan-925/Graphical
