@@ -6,7 +6,7 @@
 	url = https://github.com/Nathan-925/Graphical
 [submodule "priori/math"]
 	path = priori/math
-	url = https://github.com/Nathan-925/Graphical
+	url = https://github.com/Nathan-925/Math
 [submodule "priori/math3d"]
 	path = priori/math3d
 	url = https://github.com/Nathan-925/Math3D
