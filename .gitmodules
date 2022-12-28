@@ -7,3 +7,6 @@
 [submodule "priori/math3d"]
 	path = priori/math3d
 	url = https://github.com/Nathan-925/Math3D
+[submodule "priori/math"]
+	path = priori/math
+	url = https://github.com/Nathan-925/Math
