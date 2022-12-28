@@ -1,12 +1,12 @@
-[submodule "priori/BMPLibrary"]
-	path = priori/BMPLibrary
+[submodule "priori/bmp"]
+	path = priori/bmp
 	url = https://github.com/Nathan-925/BMPLibrary
-[submodule "priori/Graphical"]
-	path = priori/Graphical
+[submodule "priori/graphical"]
+	path = priori/graphical
 	url = https://github.com/Nathan-925/Graphical
-[submodule "priori/Math3D"]
-	path = priori/Math3D
+[submodule "priori/math"]
+	path = priori/math
+	url = https://github.com/Nathan-925/Graphical
+[submodule "priori/math3d"]
+	path = priori/math3d
 	url = https://github.com/Nathan-925/Math3D
-[submodule "priori/Math"]
-	path = priori/Math
-	url = https://github.com/Nathan-925/Math
