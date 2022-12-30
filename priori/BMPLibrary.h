@@ -8,6 +8,6 @@
 #ifndef PRIORI_BMPLIBRARY_H_
 #define PRIORI_BMPLIBRARY_H_
 
-#include "BMPLibrary/BMPIO.h"
+#include "bmp/bmpio.h"
 
 #endif /* PRIORI_BMPLIBRARY_H_ */
