@@ -6,12 +6,12 @@
  */
 #include <iostream>
 
-#include "priori/Graphical.h"
+#include "priori/Math.h"
 
 using namespace std;
 using namespace priori;
 
 int main(){
-	Color color(0x11ABCDEF);
-	cout << hex << (int)color.r << " " << (int)color.g << " " << (int)color.b << " " << (int)color.a << endl;
+	Point p;
+	cout << p.x << " " << p.y << endl;
 }

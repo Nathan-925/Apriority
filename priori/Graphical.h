@@ -8,7 +8,7 @@
 #ifndef PRIORI_GRAPHICAL_H_
 #define PRIORI_GRAPHICAL_H_
 
-#include "Graphical/Color.h"
-#include "Graphical/Image.h"
+#include "graphical/Color.h"
+#include "graphical/Image.h"
 
 #endif /* PRIORI_GRAPHICAL_H_ */
