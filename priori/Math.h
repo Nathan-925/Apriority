@@ -8,7 +8,7 @@
 #ifndef PRIORI_MATH_H_
 #define PRIORI_MATH_H_
 
-#include "math/Math.h"
+#include "math/Geometry.h"
 #include "math/Interpolation.h"
 
 #endif /* PRIORI_MATH_H_ */

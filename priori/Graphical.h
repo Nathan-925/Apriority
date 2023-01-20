@@ -10,5 +10,6 @@
 
 #include "graphical/Color.h"
 #include "graphical/Image.h"
+#include "graphical/Rasterizer.h"
 
 #endif /* PRIORI_GRAPHICAL_H_ */
