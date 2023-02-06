@@ -12,6 +12,5 @@
 #include "math3D/TransformationMatrix.h"
 #include "math3D/Plane.h"
 #include "math3D/Transformations.h"
-#include "math3D/PlaneMath.h"
 
 #endif /* PRIORI_MATH3D_H_ */
