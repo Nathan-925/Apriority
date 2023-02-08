@@ -8,7 +8,7 @@
 #ifndef PRIORI_MATH3D_H_
 #define PRIORI_MATH3D_H_
 
-#include "math3D/Point3D.h"
+#include "math3d/Vector3D.h"
 #include "math3D/TransformationMatrix.h"
 #include "math3D/Plane.h"
 #include "math3D/Transformations.h"
