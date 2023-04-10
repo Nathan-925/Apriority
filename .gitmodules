@@ -10,3 +10,6 @@
 [submodule "priori/math"]
 	path = priori/math
 	url = https://github.com/Nathan-925/Math
+[submodule "priori/data"]
+	path = priori/data
+	url = https://github.com/Nathan-925/Data
