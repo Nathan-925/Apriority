@@ -10,6 +10,5 @@
 
 #include "math/Geometry.h"
 #include "math/Interpolation.h"
-#include "math/Functions.h"
 
 #endif /* PRIORI_MATH_H_ */
