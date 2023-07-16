@@ -13,3 +13,6 @@
 [submodule "priori/data"]
 	path = priori/data
 	url = https://github.com/Nathan-925/Data
+[submodule "priori/mapping"]
+	path = priori/mapping
+	url = https://github.com/Nathan-925/Mapping.git
