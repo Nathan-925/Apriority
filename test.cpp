@@ -10,7 +10,7 @@ using namespace priori;
 int main(){
 	cout << "start" << endl;
 
-	int length = pow(pow(2, 4), 2);
+	int length = pow(pow(2, 5), 2);
 	Color* line = new Color[length];
 	HilbertCurve<Color> curve(line, length);
 
